@@ -8,6 +8,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6.svg)](https://www.typescriptlang.org)
 [![Gemini](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-f59e0b.svg)](https://ai.google.dev)
 
+### ▶︎ [**Live demo**](https://za3ter123.github.io/gitscout-2.0/) &nbsp;·&nbsp; search works out of the box; add your own free [Gemini key](https://aistudio.google.com/app/apikey) (run locally) for the AI rewriting and repo chat.
+
 GitScout turns plain-English requests into precise GitHub searches. You type *"a React portfolio
 template"*; it rewrites that into GitHub's strict query syntax behind the scenes, ranks the results,
 and lets you **chat with any repository** to decide if it's worth your time — without leaving the page.
